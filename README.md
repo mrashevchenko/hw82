@@ -35,11 +35,9 @@
 
 **Что нужно сделать:**
 
-1. Установите на машину Nexus.
-1. Создайте raw-hosted репозиторий.
-1. Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
-1. Загрузите файл в репозиторий с помощью jenkins.
+![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task3result.PNG)
+![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task3result.PNG)
+![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task3result2.PNG)
 
-В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ---
