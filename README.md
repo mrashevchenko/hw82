@@ -19,16 +19,16 @@
 
 ### Задание 1
 
-`![Конфигурация](https://github.com/mrashevchenko/hw82/blob/main/img/task1configur.PNG)`
-`![Результат](https://github.com/mrashevchenko/hw82/blob/main/img/task1result.PNG)`
+![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task1configur.PNG)
+![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task1result.PNG)
 ---
 
 ### Задание 2
 
-`![Конфигурация](https://github.com/mrashevchenko/hw82/blob/main/img/task2configur.PNG)`
-`![Результат](https://github.com/mrashevchenko/hw82/blob/main/img/task2result.PNG)`
-`![Результат](https://github.com/mrashevchenko/hw82/blob/main/img/task2result2.PNG)`
-`![Результат](https://github.com/mrashevchenko/hw82/blob/main/img/task2result3.PNG)`
+![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task2configur.PNG)
+![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task2result.PNG)
+![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task2result2.PNG)
+![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task2result3.PNG)
 ---
 
 ### Задание 3
