@@ -35,7 +35,7 @@
 
 **Что нужно сделать:**
 
-![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task3result.PNG)
+![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task3configur.PNG)
 ![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task3result.PNG)
 ![](https://raw.githubusercontent.com/mrashevchenko/hw82/main/img/task3result2.PNG)
 
