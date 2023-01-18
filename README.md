@@ -19,22 +19,16 @@
 
 ### Задание 1
 
-`При необходимости прикрепитe сюда скриншоты
-![Конфигурация](https://github.com/mrashevchenko/hw82/blob/main/img/task1%20configur.PNG?raw=true)`
-`При необходимости прикрепитe сюда скриншоты
-![Результат](https://github.com/mrashevchenko/hw82/blob/main/img/task1%20result.PNG?raw=true)`
+`![Конфигурация](img/task1configur.PNG)`
+`![Результат](img/task1result.PNG)`
 ---
 
 ### Задание 2
 
-`При необходимости прикрепитe сюда скриншоты
-![Конфигурация](https://github.com/mrashevchenko/hw82/blob/main/img/task2%20configur.PNG?raw=true)`
-`При необходимости прикрепитe сюда скриншоты
-![Результат 1/3](https://github.com/mrashevchenko/hw82/blob/main/img/task2%20result.PNG?raw=true)`
-`При необходимости прикрепитe сюда скриншоты
-![Результат 2/3](https://github.com/mrashevchenko/hw82/blob/main/img/task2%20result2.PNG?raw=true)`
-`При необходимости прикрепитe сюда скриншоты
-![Результат 3/3](https://github.com/mrashevchenko/hw82/blob/main/img/task2%20result3.PNG?raw=true)`
+`![Конфигурация](img/task2configur.PNG)`
+`![Результат](img/task2result.PNG)`
+`![Результат](img/task2result2.PNG)`
+`![Результат](img/task2result3.PNG)`
 ---
 
 ### Задание 3
